@@ -55,18 +55,6 @@
 **Вывод:** Filebeat успешно заменяет Logstash. Логи поступают в Elasticsearch с новой структурой полей (agent.type: "filebeat", agent.version: "7.17.9" и др.).
 
 ---
-## Структура проекта
-
-ELK-Homework/
-├── README.md # Документация
-├── screenshots/ # Скриншоты выполнения заданий
-│ ├── task1.png # Elasticsearch
-│ ├── task2.png # Kibana
-│ ├── task3.png # Logstash + Nginx
-│ └── task4.png # Filebeat
-
----
-
 ## Технические детали
 
 ### Используемое ПО:
